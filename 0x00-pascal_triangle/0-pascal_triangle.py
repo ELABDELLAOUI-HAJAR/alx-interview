@@ -13,7 +13,7 @@ def pascal_triangle(n):
         return []
 
     pascal_triangle = [[1]]
-    while len(my_triangles) != n:
+    while len(pascal_triangle) != n:
         last_elmt = pascal_triangle[-1]
         next_elmt = [1]
         for i in range(0, len(last_elmt) - 1):
