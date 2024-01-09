@@ -1,6 +1,10 @@
+#!/usr/bin/python3
+"""Script that contains the method canUnlockAll"""
+
+
 def canUnlockAll(boxes):
-    """ Method that return True if all boxes can be opened, 
-    else return False 
+    """ Method that return True if all boxes can be opened,
+    else return False
     """
 
     for key in range(1, len(boxes)):
