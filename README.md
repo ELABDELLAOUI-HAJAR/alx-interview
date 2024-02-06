@@ -7,3 +7,4 @@
 | 0x02. Minimum Operations | Method that determines the Minimum Operations |
 | 0x03-log_parsing Project | Script that reads stdin line by line and computes metrics |
 | 0x04-utf8_validation | Method that determines if a given data set represents a valid UTF-8 encoding |
+| 0x05. N Queens | Program that solves the N queens problem. |
